@@ -23,7 +23,7 @@ ended = False
 def main():
     """ Displays available menu options """
 
-    print("     Type Speed by Areeb - github.com/areebbeigh")
+    print("     Type Speed by Andri - github.com/aaanndri")
     print("\n")
     print("     1. Play")
     print("     2. View records")
