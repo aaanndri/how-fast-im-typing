@@ -5,3 +5,6 @@ and you can view the records anytime in your browser by generating a records HTM
 
 <b>Developer</b>: Andri<br>
 <b>GitHub Repo</b>: https://github.com/aaanndri/how-fast-im-typing<br>
+
+### Check out my other speed typing tester about the most used passwords: 
+<b>https://github.com/aaanndri/how-fast-im-typing-passwords</b>
